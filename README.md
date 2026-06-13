@@ -4,4 +4,4 @@ detailed explanation at one point it gave a number 123456789 like this and expec
 day 3 leetcode 9 referred striver video but tbh i didnt even look at the video and completed the palindrome number
 day 4 referred neetcode io video for happy number
 day 5 referred codeio video for fizzbuzz
-day 6 -
+day 6 - own method and solution 
