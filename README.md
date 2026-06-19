@@ -5,3 +5,4 @@ day 3 leetcode 9 referred striver video but tbh i didnt even look at the video a
 day 4 referred neetcode io video for happy number
 day 5 referred codeio video for fizzbuzz
 day 6 - own method and solution 
+day 7 referred a video in youtube 
