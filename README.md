@@ -6,3 +6,4 @@ day 4 referred neetcode io video for happy number
 day 5 referred codeio video for fizzbuzz
 day 6 - own method and solution 
 day 7 referred a video in youtube 
+day 8 https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/solutions/8349986/digit-manipulation-product-and-sum-of-di-tppe
